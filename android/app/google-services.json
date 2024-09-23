@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982049045553",
+    "project_id": "biz-card-app-d2942",
+    "storage_bucket": "biz-card-app-d2942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982049045553:android:1c08bfdf9f7bd34d7ea910",
+        "android_client_info": {
+          "package_name": "com.sunshinemoongit.biz_card_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemGh2HM_byA4uh8W9cOGyqjTrd3AhuX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

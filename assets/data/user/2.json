@@ -1,0 +1,22 @@
+{
+    "uid": 2,
+    "name": "홍 Cody",
+    "email": "Herbert_3d73g23hn@gmail.com",
+    "team": "Applications",
+    "company": "주식회사 태현",
+    "phone": "+1 (725) 263-7252",
+    "fax": "27-645645-587708-5",
+    "following": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "wallet": []
+}

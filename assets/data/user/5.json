@@ -1,0 +1,22 @@
+{
+    "uid": 5,
+    "name": "가 Rick",
+    "email": "Benjamin_3cz3fl3i4@yahoo.co.kr",
+    "team": "Creative",
+    "company": "한국 주엽",
+    "phone": "+1 (541) 183-0891",
+    "fax": "82-628480-510327-4",
+    "following": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "wallet": []
+}
