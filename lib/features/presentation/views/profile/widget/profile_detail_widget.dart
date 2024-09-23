@@ -1,7 +1,7 @@
 import 'package:biz_card_app/config/app/app_svg.dart';
 import 'package:biz_card_app/config/ui/app_dimensions.dart';
 import 'package:biz_card_app/config/ui/theme_extension.dart';
-import 'package:biz_card_app/features/data/models/user/user_info_model.dart';
+import 'package:biz_card_app/features/data/models/user/base_user_info_model.dart';
 import 'package:biz_card_app/shared/widgets/basic_asset_svg.dart';
 import 'package:biz_card_app/shared/widgets/custom_container_with_title.dart';
 import 'package:biz_card_app/shared/widgets/text/basic_text.dart';
@@ -14,7 +14,7 @@ class ProfileDetailWidget extends ConsumerWidget {
     required this.userData,
   });
 
-  final UserInfoModel userData;
+  final BaseUserInfoModel userData;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
